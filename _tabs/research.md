@@ -1,5 +1,5 @@
 ---
 layout: research
 icon: fas fa-stream
-order: 1
+order: 6
 ---
